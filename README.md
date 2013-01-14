@@ -1,8 +1,8 @@
 tdfriendselectorXprototype
 ==========================
 
-Adaptation of the javascript module of keeganstreet (https://github.com/keeganstreet) to works with Prototype (http://prototypejs.org/) and script.aculo.us (http://script.aculo.us/)
-All the credits for him.
+Adaptation of the javascript module of keeganstreet (https://github.com/keeganstreet) to work with Prototype (http://prototypejs.org/) and script.aculo.us (http://script.aculo.us/). 
+All credits for him.
 
 Welcome to the These Days Facebook Friend Selector
 =========================================
