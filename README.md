@@ -1,4 +1,4 @@
-tdfriendselectorXprototype
+Facebook Friend Selector for Prototype
 ==========================
 
 Adaptation of the javascript module of thesedays (https://github.com/thesedays/) to work with Prototype (http://prototypejs.org/) and script.aculo.us (http://script.aculo.us/). 
